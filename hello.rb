@@ -3,7 +3,7 @@
 puts "Hello, Let's start with Ruby!"
 puts "Enter your name?"
 
-name = "jay"
+name = ${NAME}
 puts "Hi #{name}"
 
 puts "new line added"
