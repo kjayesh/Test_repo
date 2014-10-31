@@ -2,7 +2,7 @@
 
 puts "Hello, Let's start with Ruby!"
 puts "Enter your name?"
-#name = fqdn
+name = jay
 puts "Hi #{name}"
 
 puts "new line added"
