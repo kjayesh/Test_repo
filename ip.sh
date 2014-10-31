@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "My IP ADDRESS is $IP"
+echo "My IP ADDRESS is $UUID"
